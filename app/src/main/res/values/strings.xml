@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Scattered Switches</string>
+
+    <string name="pref_level_one_label">Switch on</string>
+    <string name="pref_level_one_key" translatable="false">switch_lvl_one</string>
+    <string name="pref_level_one_show_true"></string>
+    <!--<string name="pref_level_one_show_true">All right</string>-->
+    <string name="pref_level_one_show_false"></string>
+    <string name="title_activity_level">LevelActivity</string>
+
+
+    <string name="pref_lvl3_sw1_key" translatable="false">pref_lvl3_sw1_key</string>
+    <string name="pref_lvl3_sw2_key" translatable="false">pref_lvl3_sw2_key</string>
+    <string name="pref_lvl3_sw3_key" translatable="false">pref_lvl3_sw3_key</string>
+    <string name="pref_lvl3_sw4_key" translatable="false">pref_lvl3_sw4_key</string>
+    <string name="pref_lvl3_sw5_key" translatable="false">pref_lvl3_sw5_key</string>
+    <string name="pref_lvl3_sw6_key" translatable="false">pref_lvl3_sw6_key</string>
+
+
+</resources>

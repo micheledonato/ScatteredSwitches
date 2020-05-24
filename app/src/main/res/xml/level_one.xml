@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="@bool/pref_level_one_default"
+        android:key="@string/pref_lvl3_sw1_key"
+        android:summaryOff="@string/pref_level_one_show_false"
+        android:summaryOn="@string/pref_level_one_show_true"
+        android:title="@string/pref_level_one_label" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="@bool/pref_level_one_default"
+        android:key="@string/pref_lvl3_sw2_key"
+        android:summaryOff="@string/pref_level_one_show_false"
+        android:summaryOn="@string/pref_level_one_show_true"
+        android:title="@string/pref_level_one_label" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="@bool/pref_level_one_default"
+        android:key="@string/pref_lvl3_sw3_key"
+        android:summaryOff="@string/pref_level_one_show_false"
+        android:summaryOn="@string/pref_level_one_show_true"
+        android:title="@string/pref_level_one_label" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="@bool/pref_level_one_default"
+        android:key="@string/pref_lvl3_sw4_key"
+        android:summaryOff="@string/pref_level_one_show_false"
+        android:summaryOn="@string/pref_level_one_show_true"
+        android:title="@string/pref_level_one_label" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="@bool/pref_level_one_default"
+        android:key="@string/pref_lvl3_sw5_key"
+        android:summaryOff="@string/pref_level_one_show_false"
+        android:summaryOn="@string/pref_level_one_show_true"
+        android:title="@string/pref_level_one_label" />
+
+    <android.support.v7.preference.SwitchPreferenceCompat
+        android:defaultValue="@bool/pref_level_one_default"
+        android:key="@string/pref_lvl3_sw6_key"
+        android:summaryOff="@string/pref_level_one_show_false"
+        android:summaryOn="@string/pref_level_one_show_true"
+        android:title="@string/pref_level_one_label" />
+
+</PreferenceScreen>
